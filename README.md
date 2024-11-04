@@ -1,4 +1,4 @@
-## <center> Hi👋 I am Sanchay Singh.</center>
+## <centre> Hi👋 I am Sanchay Singh.</centre>
 
 <!--
 **sanchay21/sanchay21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
