@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Screenshot (18)](https://github.com/user-attachments/assets/075dc17e-3eba-4375-807c-318fc0c9ebf4)
 
 
 <h3 align="center">A passionate programmer from India</h3>
