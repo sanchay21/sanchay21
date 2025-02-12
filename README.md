@@ -40,4 +40,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p><br><br>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchay21&show_icons=true&locale=en&layout=compact" alt="sanchay21" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchay21&layout=compact&langs_count=10&theme=tokyonight)
+
